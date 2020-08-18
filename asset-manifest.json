@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/martin-website/static/css/main.5f361e03.chunk.css",
+    "main.js": "/martin-website/static/js/main.654e9c7d.chunk.js",
+    "main.js.map": "/martin-website/static/js/main.654e9c7d.chunk.js.map",
+    "runtime-main.js": "/martin-website/static/js/runtime-main.d77d7980.js",
+    "runtime-main.js.map": "/martin-website/static/js/runtime-main.d77d7980.js.map",
+    "static/js/2.fd0dff8e.chunk.js": "/martin-website/static/js/2.fd0dff8e.chunk.js",
+    "static/js/2.fd0dff8e.chunk.js.map": "/martin-website/static/js/2.fd0dff8e.chunk.js.map",
+    "index.html": "/martin-website/index.html",
+    "precache-manifest.ad7769aea3954a18ef076cc6ee93422b.js": "/martin-website/precache-manifest.ad7769aea3954a18ef076cc6ee93422b.js",
+    "service-worker.js": "/martin-website/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/martin-website/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.fd0dff8e.chunk.js.LICENSE.txt": "/martin-website/static/js/2.fd0dff8e.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/martin-website/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d77d7980.js",
+    "static/js/2.fd0dff8e.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.654e9c7d.chunk.js"
+  ]
+}
